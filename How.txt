@@ -1,0 +1,10 @@
+- please give to github.com/OF3K credit
+- open a bot (https://discord.com/developers)
+- download nodejs (https://nodejs.org/en/)
+- clone the repo
+- type in terminal `npm init -y`
+- type `npm install`
+- type `code .` (only vsc users can use this)
+- edit the config file (config.json)
+- type in cmd/terminal node .
+- please give to github.com/OF3K credit
