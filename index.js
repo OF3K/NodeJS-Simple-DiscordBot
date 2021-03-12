@@ -12,7 +12,7 @@
 **/
 const Discord = require('discord.js') //Defines Discord
 const client = new Discord.Client() //Defines client
-const config = require('config.json') //Defines config file
+const config = require('./config.json') //Defines config file
 
 client.on('ready', () => { //If the bot is online... 
     console.log(`The Bot is ready! With ${client.users.cache.size} member's and ${client.guilds.cache.size} guilds. The bot by github.com/OF3K`) //console.log, only you can see that
