@@ -19,7 +19,7 @@ Please open How.txt first!
 - download nodejs (https://nodejs.org/en/)
 - clone the repo
 - type in terminal `npm init -y`
-- type `npm install`
+- type `npm install discord.js`
 - type `code .` (only vsc users can use this)
 - edit the config file (config.json)
 - type in cmd/terminal `node .`
