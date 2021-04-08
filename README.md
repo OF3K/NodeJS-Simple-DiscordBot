@@ -4,7 +4,7 @@ Please open How.txt first!
  
  useful links:
  <br>IlDevsV2: https://discord.gg/PU6GNEnrXg</br>
- <br>DiscordJSOfficelServer: https://discord.gg/bRCvFy9</br>
+ <br>DiscordJSOfficalServer: https://discord.gg/bRCvFy9</br>
  <br>discordjs guide: https://discordjs.guide</br>
  <br>discordjs web: https://discord.js.org/</br>
 
